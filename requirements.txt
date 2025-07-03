@@ -1,0 +1,10 @@
+streamlit
+chromadb
+sentence-transformers
+langchain
+spacy
+pandas
+protobuf==3.20.3
+python-docx
+pdfplumber
+docling
